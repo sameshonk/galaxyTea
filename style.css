@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #0a1c3a;
+	overflow: hidden;
+}
+
+canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+
+#container {
+	background-color: #1A3A5BF2;
+	border: 6px solid #000133;
+	border-radius: 15px;
+	margin: 30px;
+	padding: 10px;
+	height: 200px;
+}
